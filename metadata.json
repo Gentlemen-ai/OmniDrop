@@ -1,0 +1,6 @@
+{
+  "name": "OmniDrop",
+  "description": "All-in-one wireless file transfer and cross-platform cloud sync with end-to-end encryption between iOS, Mac, Windows, and Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
